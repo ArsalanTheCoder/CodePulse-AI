@@ -45,4 +45,5 @@ This turns unstructured practice into a **simple daily habit**.
 ---
 
 ## 🧩 System Architecture
+![Architecture Diagram of Leetcode Agent](https://github.com/user-attachments/assets/734c7aed-7e0e-4f56-93fa-368cd951273f)
 
