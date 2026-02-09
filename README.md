@@ -11,8 +11,8 @@
 ---
 
 ## ✨ Quick Links
-- **Video:** https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing  
-- **Presentation:** https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg  
+- **Video:** [Watch Demo](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing)
+- **Presentation:** [View Slides](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg)
 - **Repository:** `https://github.com/<your-org>/codepulse-ai`
 
 ---
@@ -36,7 +36,6 @@ Developers struggle to maintain daily, structured coding practice because:
 
 ## 📦 System Diagram
 > The diagram below visualizes the core system flow.  
-> (If this external attachment does not render on GitHub, download the image and save it to `assets/system-diagram.webp`, then change the `src` to `./assets/system-diagram.webp`.)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8e8c2af8-6fbc-4b06-93a5-86a46fed0d0c" alt="System Architecture Diagram - CodePulse AI" width="900"/>
@@ -55,60 +54,35 @@ Developers struggle to maintain daily, structured coding practice because:
 ---
 
 ## 🛠️ Tech Stack (what we used)
-**Frontend:** Next.js, Tailwind CSS  
-**Backend:** FastAPI (Python)  
-**AI / Analysis:** Google Gemini API (prompt + agentic workflows)  
-**Auth:** Firebase Authentication  
-**Database:** Neon MySQL  
-**Email:** Brevo (Sendinblue) API  
-**Integrations:** GitHub API (Personal Access Token)
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** FastAPI (Python)  
+- **AI / Analysis:** Google Gemini API (prompt + agentic workflows)  
+- **Auth:** Firebase Authentication  
+- **Database:** Neon MySQL  
+- **Email:** Brevo (Sendinblue) API  
+- **Integrations:** GitHub API (Personal Access Token)
 
 ---
 
-## 🎬 Animated Preview (optional)
-You can add a short animated GIF here (in `assets/preview.gif`) for a livelier README. Example placeholder (replace with your own):
+## 👥 Meet Team Hustler Crew
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Preview" width="600"/>
-</p>
+| Team Member | Contact & Profiles |
+| :--- | :--- |
+| **Mohammad Arsalan** | 📧 mohammad.arsalan.dev@gmail.com<br>🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-arsalan-83631b2aa) |
+| **Muhammad Ahmed** | 📧 ahmednadeemarain.75@gmail.com<br>🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-ahmed-445180250/) |
+| **Babar Rahim** | 📧 babarrahim528@gmail.com<br>🔗 [LinkedIn Profile](https://www.linkedin.com/in/babar-rahim-b0882234b) |
+| **Husnain Aslam** | 📧 arainhasnain817@gmail.com<br>🔗 [LinkedIn Profile](https://linkedin.com/in/husnainaslam1/) |
 
-<p align="center">
-  <strong>👥 Team Hustler Crew</strong><br/>
-</p>
+<br/>
 
----
-
-## 👥 Team Members (vertical list)
-**Mohammad Arsalan**  
-- Email: mohammad.arsalan.dev@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mohammad-arsalan-83631b2aa
-
-**Muhammad Ahmed**  
-- Email: ahmednadeemarain.75@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/muhammad-ahmed-445180250/
-
-**Babar Rahim**  
-- Email: babarrahim528@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/babar-rahim-b0882234b
-
-**Husnain Aslam**  
-- Email: arainhasnain817@gmail.com  
-- LinkedIn: https://linkedin.com/in/husnainaslam1/
-
----
-
-## 🧪 Demo Flow (What to show)
-1. Sign up / Sign in (Firebase)  
-2. 3 onboarding screens (explain the flow)  
-3. Paste GitHub repo link → backend analyses repo  
-4. Welcome email sent on the spot  
-5. Daily LeetCode email scheduled (sent every morning)  
-6. Dashboard: streaks, solved count, analytics & quizzes
+**📫 Contact Us**
+- **Email:** mohammad.arsalan.dev@gmail.com
+- **Email:** ahmednadeemarain.75@gmail.com
+- **WhatsApp:** 0311-0309096
 
 ---
 
 ## 🚀 How to Run (Quick start)
-> _Add these commands in a CONTRIBUTING or INSTALL section if you want to include local setup._
 
 ```bash
 # frontend (Next.js)
