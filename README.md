@@ -11,8 +11,8 @@
 ---
 
 ## ✨ Quick Links
-- **Video:** `[https://github.com/<your-org>/codepulse-ai](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing)`
-- **Presentation:** `[https://github.com/<your-org>/codepulse-ai](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg)`
+- **Video:** https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing  
+- **Presentation:** https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg  
 - **Repository:** `https://github.com/<your-org>/codepulse-ai`
 
 ---
@@ -36,13 +36,11 @@ Developers struggle to maintain daily, structured coding practice because:
 
 ## 📦 System Diagram
 > The diagram below visualizes the core system flow.  
-> The image URL used here is the system diagram you provided — place the image online or in `assets/` if you prefer local hosting.
+> (If this external attachment does not render on GitHub, download the image and save it to `assets/system-diagram.webp`, then change the `src` to `./assets/system-diagram.webp`.)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8e8c2af8-6fbc-4b06-93a5-86a46fed0d0c" alt="System Architecture Diagram - CodePulse AI" width="900"/>
 </p>
-
-> Tip: If GitHub doesn't render the external attachment link, download the image and save it as `assets/system-diagram.webp` then change the `src` above to `./assets/system-diagram.webp`.
 
 ---
 
@@ -67,11 +65,45 @@ Developers struggle to maintain daily, structured coding practice because:
 
 ---
 
+## 🎬 Animated Preview (optional)
+You can add a short animated GIF here (in `assets/preview.gif`) for a livelier README. Example placeholder (replace with your own):
+
 <p align="center">
-  <strong>Built by Team Hustler Crew</strong><br/>
-  <em>Mohammad Arsalan • Mohammad Ahmed • Babar Rahim • Hasnain Aslam</em>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Preview" width="600"/>
 </p>
 
+<p align="center">
+  <strong>👥 Team Hustler Crew</strong><br/>
+</p>
+
+---
+
+## 👥 Team Members (vertical list)
+**Mohammad Arsalan**  
+- Email: mohammad.arsalan.dev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/mohammad-arsalan-83631b2aa
+
+**Muhammad Ahmed**  
+- Email: ahmednadeemarain.75@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/muhammad-ahmed-445180250/
+
+**Babar Rahim**  
+- Email: babarrahim528@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/babar-rahim-b0882234b
+
+**Husnain Aslam**  
+- Email: arainhasnain817@gmail.com  
+- LinkedIn: https://linkedin.com/in/husnainaslam1/
+
+---
+
+## 🧪 Demo Flow (What to show)
+1. Sign up / Sign in (Firebase)  
+2. 3 onboarding screens (explain the flow)  
+3. Paste GitHub repo link → backend analyses repo  
+4. Welcome email sent on the spot  
+5. Daily LeetCode email scheduled (sent every morning)  
+6. Dashboard: streaks, solved count, analytics & quizzes
 
 ---
 
