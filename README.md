@@ -1,7 +1,7 @@
 # 🚀 CodePulse AI  
 ### 💙 One problem a day. Smarter every way.
 
-[![Status](https://img.shields.io/badge/status-alpha-orange)](https://github.com/) [![Hackathon](https://img.shields.io/badge/DevLaunch-2026-blue)](https://devlaunch.example/) [![Built With](https://img.shields.io/badge/built%20with-Next.js%20%7C%20FastAPI-lightgrey)](https://vercel.com/)
+[![Status](https://img.shields.io/badge/status-alpha-orange)](https://github.com/ArsalanTheCoder/CodePulse-AI) [![Hackathon](https://img.shields.io/badge/DevLaunch-2026-blue)](https://devlaunch.example/) [![Built With](https://img.shields.io/badge/built%20with-Next.js%20%7C%20FastAPI-lightgrey)](https://vercel.com/)
 
 ---
 
@@ -11,9 +11,13 @@
 ---
 
 ## ✨ Quick Links
-- **Video:** [Watch Demo](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing)
-- **Presentation:** [View Slides](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg)
-- **Repository:** `https://github.com/<your-org>/codepulse-ai`
+
+| **📺 Watch Video Demo** | **📑 View Presentation** |
+| :---: | :---: |
+| [![Video Thumbnail](https://img.youtube.com/vi/placeholder/0.jpg)](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing) | [![Slide Thumbnail](https://github.com/user-attachments/assets/PLACEHOLDER_IMAGE_ID)](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg) |
+| _Click to watch_ | _Click to open slides_ |
+
+- **Repository:** [https://github.com/ArsalanTheCoder/CodePulse-AI](https://github.com/ArsalanTheCoder/CodePulse-AI.git)
 
 ---
 
@@ -85,6 +89,9 @@ Developers struggle to maintain daily, structured coding practice because:
 ## 🚀 How to Run (Quick start)
 
 ```bash
+# Clone the repository
+git clone [https://github.com/ArsalanTheCoder/CodePulse-AI.git](https://github.com/ArsalanTheCoder/CodePulse-AI.git)
+
 # frontend (Next.js)
 cd frontend
 npm install
