@@ -14,8 +14,8 @@
 
 | **📺 Watch Video Demo** | **📑 View Presentation** |
 | :---: | :---: |
-| [![Watch Video](https://github.com/user-attachments/assets/6edf845c-5509-4921-a4ca-3b744c8a2b71)](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing) | [![View Slides](https://github.com/user-attachments/assets/6edf845c-5509-4921-a4ca-3b744c8a2b71)](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg) |
-| *Click to watch video* | *Click to open slides* |
+| [![Watch Video Demo](https://github.com/user-attachments/assets/df6a6f0d-d4f2-44c8-93a4-fb999ac994e0)](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing) | [![View Presentation Slides](https://github.com/user-attachments/assets/5f2745d6-cd5f-478e-930c-591d26673f5e)](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg) |
+| *Click image to watch video* | *Click image to open slides* |
 
 - **Repository:** [https://github.com/ArsalanTheCoder/CodePulse-AI](https://github.com/ArsalanTheCoder/CodePulse-AI.git)
 
