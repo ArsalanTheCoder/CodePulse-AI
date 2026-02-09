@@ -11,8 +11,8 @@
 ---
 
 ## ✨ Quick Links
-- **Live Demo:** *(Add link if available)*  
-- **Presentation / Video:** *(Add public link)*  
+- **Video:** `[https://github.com/<your-org>/codepulse-ai](https://drive.google.com/file/d/18J3i4-Qkw8MrgHXSiwncJAc6jkQSr4LY/view?usp=sharing)`
+- **Presentation:** `[https://github.com/<your-org>/codepulse-ai](https://gamma.app/docs/CodePulse-AI-4aav36qz5fxwxqg)`
 - **Repository:** `https://github.com/<your-org>/codepulse-ai`
 
 ---
@@ -36,13 +36,13 @@ Developers struggle to maintain daily, structured coding practice because:
 
 ## 📦 System Diagram
 > The diagram below visualizes the core system flow.  
-> **(Place the provided diagram image at `./assets/system-diagram.webp`)**
+> The image URL used here is the system diagram you provided — place the image online or in `assets/` if you prefer local hosting.
 
 <p align="center">
-  <img src="![Architecture Diagram of Leetcode Agent](https://github.com/user-attachments/assets/8e8c2af8-6fbc-4b06-93a5-86a46fed0d0c)" alt="System Diagram" width="900"/>
+  <img src="https://github.com/user-attachments/assets/8e8c2af8-6fbc-4b06-93a5-86a46fed0d0c" alt="System Architecture Diagram - CodePulse AI" width="900"/>
 </p>
 
-> **If you want the exact uploaded file name:** place the image you provided as `assets/system-diagram.webp` in the repo root.
+> Tip: If GitHub doesn't render the external attachment link, download the image and save it as `assets/system-diagram.webp` then change the `src` above to `./assets/system-diagram.webp`.
 
 ---
 
@@ -67,11 +67,11 @@ Developers struggle to maintain daily, structured coding practice because:
 
 ---
 
-## 🎬 Animated Preview (optional)
-You can add a short animated GIF here (in `assets/preview.gif`) for a livelier README. Example placeholder (replace with your own):
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Preview" width="600"/>
+  <strong>Built by Team Hustler Crew</strong><br/>
+  <em>Mohammad Arsalan • Mohammad Ahmed • Babar Rahim • Hasnain Aslam</em>
 </p>
+
 
 ---
 
